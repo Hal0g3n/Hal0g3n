@@ -3,6 +3,7 @@
 Welcome to my little corner of the internet
 
 Some stats for the stat nerds
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=hal0g3n&hide_rank=true&hide=issues,contribs&theme=onedark)
 
 <!--
